@@ -14,3 +14,6 @@
 
 
 
+主要文件：
+demo.html  - 页面实例
+PicEditing.js  -  核心js代码
