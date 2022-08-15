@@ -1,0 +1,11 @@
+      * { margin: 0;padding:0;}
+      a{text-decoration: none;}
+      ul,li { list-style-type: none; }
+	  html{font-size:20px!important;}
+	  img { border-style: none; }
+	  .gray { -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); filter: gray; }
+	  ::-webkit-scrollbar { width:.3rem; }
+	  ::-webkit-scrollbar-thumb { background: #333; }
+	  ::-webkit-scrollbar-track { background: #fff; }
+	  body{max-width:100%;overflow-x:hidden;background-color:#fff;}
+	  .clear{clear:both;}

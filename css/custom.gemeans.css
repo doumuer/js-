@@ -1,0 +1,948 @@
+		@media screen and (min-width: 1481px){
+			.customTop{
+				padding: .8rem 1rem;
+				height:1.2rem;
+				line-height:1.2rem;
+				margin-bottom: 1rem;
+			}
+			.customTop h3{
+				font-size:.7rem;
+			}
+			.customTop a{
+				padding: 0 1.2rem;
+			}
+			.customMid .normalBox .normalLeft,.customMid .imgBox .normalLeft{
+				float: left;
+				width:5.8rem;
+				padding-right: .2rem;
+				line-height: 1.8rem;
+			}
+			.customMid .normalBox{
+				min-width:30.5rem;
+			}
+			.customMid .normalBox .normalLeft p,.customMid .imgBox .normalLeft p{
+				font-size:.8rem;
+			}
+			.customMid .normalBox .normalLeft span,.customMid .imgBox .normalLeft span{
+				font-size:.7rem;
+			}
+			.customMid .normalBox .normalRight{
+				width:calc(100% - 6rem);
+				min-width:22.5rem;
+				float: left;
+			}
+			.customMid .normalBox .normalRight span{
+				font-size:.7rem;
+			}
+			.customMid .normalBox .normalRight .normalInput,.customMid .normalBox .normalRight .normalSelect{
+				width:22.5rem;
+				max-width: 100%;
+				font-size:.7rem;
+			}
+			.customMid .normalBox .normalRight .normalTextarea{
+				width:22.5rem;
+				max-width: 100%;
+				font-size:.7rem;
+			}
+			.customMid .remindBox,.customMid .separateBox{
+				width:100%;
+				min-width:30.5rem;
+			}
+			.customMid .remindBox{
+				font-size: .7rem;
+				padding: .5rem .5rem .5rem 7rem;
+			}
+			.customMid .separateBox{
+				height: 1.6rem;
+				font-size: .7rem;
+				padding-left: 7rem;
+			}
+			.customMid .imgBox{
+				width:100%;
+				min-width:46.5rem;
+			}
+			.customMid .imgBox .normalRight{
+				width:calc(100% - 8rem);
+				min-width:22.5rem;
+				float: left;
+			}
+			.customMid .imgBox .normalRight span{
+				float: left;
+				font-size: .7rem;
+			}
+			.customMid .imgBox .normalRight .normalInput{
+				float: left;
+				width:22.5rem;
+				max-width: 100%;
+				font-size:.7rem;
+			}
+			.customMid .imgBox .normalRight .normalShow{
+				float: left;
+				width:8rem;
+				margin-left: 2rem;
+			}
+            .midButton button{
+                padding: .4rem .8rem;
+				font-size:.7rem;
+            }
+		}
+		@media screen and (max-width: 1480px) and (min-width: 1201px){
+			.customTop{
+				padding: .6rem 1rem;
+				height:1rem;
+				line-height:1rem;
+				margin-bottom: 1rem;
+			}
+			.customTop h3{
+				font-size:.6rem;
+			}
+			.customTop a{
+				padding: 0 .8rem;
+			}
+			.customMid .normalBox .normalLeft,.customMid .imgBox .normalLeft{
+				float: left;
+				width:5.8rem;
+				padding-right: .2rem;
+				line-height: 1.8rem;
+			}
+			.customMid .normalBox{
+				min-width:30.5rem;
+			}
+			.customMid .normalBox .normalLeft p,.customMid .imgBox .normalLeft p{
+				font-size:.7rem;
+			}
+			.customMid .normalBox .normalLeft span,.customMid .imgBox .normalLeft span{
+				font-size:.6rem;
+			}
+			.customMid .normalBox .normalRight{
+				width:calc(100% - 6rem);
+				min-width:22.5rem;
+				float: left;
+			}
+			.customMid .normalBox .normalRight span{
+				font-size:.6rem;
+			}
+			.customMid .normalBox .normalRight .normalInput,.customMid .normalBox .normalRight .normalSelect{
+				width:22.5rem;
+				max-width: 100%;
+				font-size:.6rem;
+			}
+			.customMid .normalBox .normalRight .normalTextarea{
+				width:22.5rem;
+				max-width: 100%;
+				font-size:.6rem;
+			}
+			.customMid .remindBox,.customMid .separateBox{
+				width:100%;
+				min-width:30.5rem;
+				height: 1.6rem;
+			}
+			.customMid .remindBox{
+				font-size: .6rem;
+				padding: .5rem .5rem .5rem 7rem;
+			}
+			.customMid .separateBox{
+				font-size: .6rem;
+				padding-left: 7rem;
+			}
+			.customMid .imgBox{
+				width:100%;
+				min-width:46.5rem;
+			}
+			.customMid .imgBox .normalRight{
+				width:calc(100% - 8rem);
+				min-width:22.5rem;
+				float: left;
+			}
+			.customMid .imgBox .normalRight span{
+				float: left;
+				font-size: .6rem;
+			}
+			.customMid .imgBox .normalRight .normalInput{
+				float: left;
+				width:22.5rem;
+				max-width: 100%;
+				font-size:.6rem;
+			}
+			.customMid .imgBox .normalRight .normalShow{
+				float: left;
+				width:8rem;
+				margin-left: 1.5rem;
+			}
+            .midButton button{
+                padding: 0 .5rem;
+				font-size:.6rem;
+            }
+		}
+		@media screen and (max-width:1200px) and (min-width: 1px){
+			.customTop{
+				padding: .6rem 0;
+				height:1rem;
+				line-height:1rem;
+				margin-bottom: 1rem;
+			}
+			.customTop h3{
+				font-size:.6rem;
+			}
+			.customTop a{
+				padding: 0 .8rem;
+			}
+			.customMid .normalBox .normalLeft,.customMid .imgBox .normalLeft{
+				width:100%;
+				padding-bottom: .2rem;
+				line-height: 1.8rem;
+			}
+			.customMid .normalBox,.customMid .imgBox{
+				padding: 0 .6rem .5rem;
+				width:100%;
+			}
+			.customMid .normalBox .normalLeft p,.customMid .imgBox .normalLeft p{
+				font-size:.7rem;
+			}
+			.customMid .normalBox .normalLeft span,.customMid .imgBox .normalLeft span{
+				font-size:.6rem;
+			}
+			.customMid .normalBox .normalRight{
+				width:100%;
+			}
+			.customMid .normalBox .normalRight span{
+				font-size:.6rem;
+			}
+			.customMid .normalBox .normalRight .normalInput,.customMid .normalBox .normalRight .normalSelect,.customMid .normalBox .normalRight .normalTextarea{
+				width: 100%;
+				font-size:.6rem;
+				padding: 0 .3rem;
+			}
+			.customMid .remindBox,.customMid .separateBox{
+				width:100%;
+			}
+			.customMid .remindBox{
+				font-size: .6rem;
+				padding: .5rem .5rem;
+			}
+			.customMid .separateBox{
+				font-size: .6rem;
+				padding-left: .5rem;
+			}
+			.customMid .imgBox{
+				width:100%;
+			}
+			.customMid .imgBox .normalRight{
+				width:100%;
+			}
+			.customMid .imgBox .normalRight span{
+				float: left;
+				width:2.8rem;
+				font-size: .6rem;
+				margin-top: .3rem;
+			}
+			.customMid .imgBox .normalRight .normalInput{
+				float: left;
+				width:calc(100% - 3.7rem);
+			}
+			.customMid .imgBox .normalRight .normalShow{
+				width:8rem;
+			}
+			.leftmain{
+				overflow: hidden;
+			}
+            .midButton button{
+                padding: .4rem .8rem;
+				font-size:.7rem;
+            }
+			.uploadedShow .ulaesoLeft{
+					width:100%;
+					height:4rem;
+					overflow-x:scroll;
+					overflow-y:hidden;
+					padding-bottom:.8rem;
+					margin-bottom:.8rem;
+			}
+			.uploadedShow .ulaesoRight{
+					width:100%;
+					height:4rem;
+					overflow-x:hidden;
+					overflow-y:scroll;
+					margin-bottom:.8rem;
+			}
+		}
+		@media screen and (min-width: 1201px){
+			.customMid .normalBox,.customMid .imgBox{
+				padding: 0 1rem .8rem;
+			}
+			.customMid .normalBox .normalRight .normalInput,.customMid .normalBox .normalRight .normalSelect,.customMid .normalBox .normalRight .normalTextarea{
+				padding: 0 .7rem;
+			}
+			.leftmain{
+				float: left;
+				overflow: hidden;
+			}
+			.customMid .imgBox .normalLeft{
+				padding-top: 1.9rem;
+			}
+			.customMid .imgBox .normalRight span{
+				margin-top: 2.2rem;
+			}
+			.customMid .imgBox .normalRight .normalInput{
+				font-size:.7rem;
+				padding: 0 .7rem;
+				margin-top: 1.9rem;
+			}
+			.uploadedShow .ulaesoLeft{
+					float:left;
+					width:70%;
+					height:4rem;
+					overflow-x:scroll;
+					overflow-y:hidden;
+					padding-bottom:.8rem;
+			}
+			.uploadedShow .ulaesoRight{
+					float:left;
+					width:30%;
+					height:4rem;
+					overflow-x:hidden;
+					overflow-y:scroll;
+			}
+		}
+		.customTop{
+			overflow: hidden;
+			border-top: .05rem solid rgb(232,239,247);
+			border-bottom: .05rem solid rgb(232,239,247);
+		}
+		.customTop h3{
+			color:rgb(30,30,30);
+			float: left;
+		}
+		.customTop a{
+			display: block;
+			float: right;
+			font-size:.6rem;
+			background-color:rgb(33,178,60);
+			color:rgb(255,255,255);
+			border-radius: .1rem;
+		}
+		.customTop .csotpChange{
+			float: left;
+			height:100%;
+			background-color: rgb(93,157,240);
+			margin-left: .5rem;
+			color:rgb(255,255,255);
+			padding: 0 .5rem;
+		}
+		.customMid{
+			width:100%;
+			overflow-x: scroll;
+			overflow-y: hidden;
+			background-color: rgb(255,255,255);
+		}
+		.customMid::-webkit-scrollbar {height:.1rem }
+		.customMid::-webkit-scrollbar-thumb { background-color: rgb(141,166,199); }
+		.customMid::-webkit-scrollbar-track { background-color: rgb(255,255,255); }
+		.customMid .normalBox{
+			width:100%;
+			overflow: hidden;
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		.customMid .normalBox .normalLeft,.customMid .imgBox .normalLeft{
+			overflow: hidden;
+			text-align: justify;
+		}
+		.customMid .normalBox .normalLeft p,.customMid .imgBox .normalLeft p{
+			color:rgb(30,30,30);
+		}
+		.customMid .normalBox .normalLeft span,.customMid .imgBox .normalLeft span{
+			color:rgb(241,82,32);
+			padding: 0 .2rem;
+		}
+		.customMid .normalBox .normalRight{
+			overflow: hidden;
+		}
+		.customMid .normalBox .normalRight span{
+			display: block;
+			float: left;
+			color:rgb(51,51,51);
+			margin-right: .3rem;
+			line-height: 1.8rem;
+		}
+		.customMid .normalBox .normalRight .normalInput,.customMid .normalBox .normalRight .normalSelect{
+			display: block;
+			height:1.8rem;
+			border:.05rem solid rgb(204,204,204);
+			line-height: 1.7rem;
+			color:rgb(51,51,51);
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		.customMid .normalBox .normalRight .normalTextarea{
+			display: block;
+			height:4rem;
+			line-height: 1rem;
+			border:.05rem solid rgb(204,204,204);
+			color:rgb(51,51,51);
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		.customMid .normalBox .normalRight .normalOption{
+			line-height:1.6rem;
+		}
+		.customMid .normalBox .normalRight .normalRadio,.customMid .normalBox .normalRight .normalCheckbox{
+			display: block;
+			float: left;
+			width: .7rem;
+			height: .7rem;
+			margin: .55rem .3rem .55rem 0;
+		}
+		.customMid .remindBox,.customMid .separateBox,.customMid .remindBox,.customMid .separateBox,.customMid .editorBox{
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		.customMid .remindBox{
+			line-height: 1rem;
+			color: rgb(241,82,32);
+		}
+		.customMid .separateBox{
+			line-height: 1.6rem;
+			background-color: rgb(244,245,249);
+			margin: 1.4rem 0;
+			color: rgb(30,30,30);
+		}
+		.customMid .editorBox{
+			padding: 0 1rem .8rem;
+		}
+		.customMid .editorBox textarea{
+			height:18rem;
+		}
+		.customMid .imgBox{
+			border-top: .05rem dashed rgb(204,204,204);
+			border-bottom: .05rem dashed rgb(204,204,204);
+			overflow: hidden;
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		.customMid .imgBox .normalRight{
+			overflow: hidden;
+		}
+		.customMid .imgBox .normalRight span{
+			display: block;
+			height: 1.2rem;
+			margin-left: .5rem;
+			line-height: 1.2rem;
+			padding: 0 .2rem;
+			border-radius: .2rem;
+			background-color: rgb(244,245,249);
+			cursor: pointer;
+		}
+		.customMid .imgBox .normalRight .normalInput{
+			display: block;
+			height:1.8rem;
+			border:.05rem solid rgb(204,204,204);
+			line-height: 1.7rem;
+			color:rgb(51,51,51);
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		.customMid .imgBox .normalRight .normalShow{
+			height:2.9rem;
+			margin-top: .8rem;
+			position:relative;
+			overflow:hidden;
+		}
+		.customMid .imgBox .normalRight .normalShow img{
+			display:block;
+			width:100%;
+			height:auto;
+			position: absolute;
+			top:50%;
+			left:0%;
+            transform: translate(0%,-50%);
+			-ms-transform:translate(0%,-50%);
+			-moz-transform:translate(0%,-50%);
+			-webkit-transform:translate(0%,-50%);
+			-o-transform:translate(0%,-50%);
+		}
+		.midButton{
+			margin-top: .5rem;
+			margin-bottom: 2rem;
+			width:100%;
+			padding: .5rem 0;
+			background-color:rgb(244,245,249);
+		}
+		.midButton button{
+			display: block;
+			height:1.7rem;
+			margin: 0 auto;
+			background-color: rgb(244,245,249);
+			color: rgb(51,51,51);
+			border: none;
+			border-radius: .2rem;
+    		cursor: pointer;
+			-moz-box-shadow: 0 0.15rem 0.05rem -0.1rem rgba(17,26,100,.065), 0 0.1rem 0.1rem 0 rgba(17,26,100,.065), 0 0.05rem 0.25rem 0.15rem rgba(17,26,100,.065);
+			-webkit-box-shadow: 0 0.15rem 0.05rem -0.1rem rgba(17,26,100,.065), 0 0.1rem 0.1rem 0 rgba(17,26,100,.065), 0 0.05rem 0.25rem 0.15rem rgba(17,26,100,.065);
+			box-shadow: 0 0.15rem 0.05rem -0.1rem rgba(17,26,100,.065), 0 0.1rem 0.1rem 0 rgba(17,26,100,.065), 0 0.05rem 0.25rem 0.15rem rgba(17,26,100,.065);
+			transition:.3s;
+			-moz-transition:.3s;
+			-webkit-transition:.3s;
+			-o-transition:.3s;
+		}
+		.midButton button:hover{
+			background-color: rgb(93,157,240);
+			color: rgb(255,255,255);
+		}
+		#mainIframe {
+			width: 100%;
+			height: 100vh;
+			position: fixed;
+			top: 0;
+			left: 0;
+		}
+		body{-moz-user-select: none; -khtml-user-select: none; user-select: none;}
+		.pictureEditing{
+			width:100%;
+			position: relative;
+		}
+		.pictureEditing .picEditTit{
+			width:100%;
+			line-height: 1.4rem;
+			color:rgb(30,30,30);
+			font-size: .8rem;
+			margin-bottom: .2rem;
+		}
+		.pictureEditing .picEditInfo{
+			width:100%;
+			line-height: 1.1rem;
+			color:rgb(51,51,51);
+			font-size: .7rem;
+			margin-bottom: .5rem;
+		}
+		.pictureEditing .picEditAdd{
+			padding: 0 .8rem;
+			height: 1.1rem;
+			line-height: 1.1rem;
+			font-size: .6rem;
+			color: rgb(255,255,255);
+			text-align: center;
+			border-radius: .2rem;
+			background-color: rgb(105,126,158);
+			position: absolute;
+			right:0;
+			top:.3rem;
+			cursor: pointer;
+		}
+		.pictureEditing .picEditRegion{
+			width:100%;
+			height:5.3rem;
+			padding: 1rem 0;
+			background-color: rgb(244,245,249);
+			position: relative;
+			margin-bottom: .5rem;
+			overflow-x: scroll;
+			overflow-y: hidden;
+		}
+		.pictureEditing .picEditRegion .regionShading{
+			line-height:5.3rem;
+			color:rgb(141,166,199);
+			font-size:3.3rem;
+			font-weight: 800;
+			text-align: center;
+			position: absolute;
+			top:50%;
+			left:50%;
+            transform: translate(-50%,-50%);
+			-ms-transform:translate(-50%,-50%);
+			-moz-transform:translate(-50%,-50%);
+			-webkit-transform:translate(-50%,-50%);
+			-o-transform:translate(-50%,-50%);
+			cursor: pointer;
+		}
+		.pictureEditing .picEditRegion .regionShow{
+			height:5.3rem;
+		}
+		.pictureEditing .picEditRegion::-webkit-scrollbar {height:.1rem }
+		.pictureEditing .picEditRegion::-webkit-scrollbar-thumb { background-color: rgb(141,166,199); }
+		.pictureEditing .picEditRegion::-webkit-scrollbar-track { background-color: rgb(255,255,255); }
+		.pictureEditing .picEditRegion .regionShow .regionBox{
+			width: 7.3rem;
+			height:5.3rem;
+			float: left;
+			margin-right: 2.7rem;
+			overflow: hidden;
+			position: relative;
+		}
+		.pictureEditing .picEditRegion .regionShow .regionBox img{
+			display: block;
+			width:100%;
+			height:auto;
+			position: absolute;
+			left:0;
+			top:50%;
+			cursor: pointer;
+            transform: translate(0%,-50%);
+			-ms-transform:translate(0%,-50%);
+			-moz-transform:translate(0%,-50%);
+			-webkit-transform:translate(0%,-50%);
+			-o-transform:translate(0%,-50%);
+		}
+		.pictureEditing .picEditRegion .regionShow .regionBox .imgInfo{
+			width:100%;
+			height:2.4rem;
+			line-height: 2.4rem;
+			background-color: rgba(244,245,249,.7);
+			overflow: hidden;
+			position: absolute;
+			left:0;
+			bottom:0;
+		}
+		.pictureEditing .picEditRegion .regionShow .regionBox .imgInfo .infoP{
+			float: left;
+			padding-left:.4rem;
+			font-size: .7rem;
+			color:rgb(51,51,51);
+			cursor: pointer;
+		}
+		.pictureEditing .picEditRegion .regionShow .regionBox span{
+			display: block;
+			width:.8rem;
+			height:.8rem;
+			position: absolute;
+			top:.8rem;
+			right:.4rem;
+			cursor: pointer;
+		}
+		.pictureEditing .picEditRegion .regionShow .regionBox span::after,.pictureEditing .picEditRegion .regionShow .regionBox span::before{
+			content: "";
+			width:.8rem;
+			height:.1rem;
+			position: absolute;
+			top:50%;
+			right:0;
+			background-color: rgb(141,166,199);
+		}
+		.pictureEditing .picEditRegion .regionShow .regionBox span::after{
+            transform: translate(0%,-50%) rotate(45deg);
+			-ms-transform:translate(0%,-50%) rotate(45deg);
+			-moz-transform:translate(0%,-50%) rotate(45deg);
+			-webkit-transform:translate(0%,-50%) rotate(45deg);
+			-o-transform:translate(0%,-50%) rotate(45deg);
+		}
+		.pictureEditing .picEditRegion .regionShow .regionBox span::before{
+            transform: translate(0%,-50%) rotate(-45deg);
+			-ms-transform:translate(0%,-50%) rotate(-45deg);
+			-moz-transform:translate(0%,-50%) rotate(-45deg);
+			-webkit-transform:translate(0%,-50%) rotate(-45deg);
+			-o-transform:translate(0%,-50%) rotate(-45deg);
+		}
+		.pictureEditing .picEditUpload{
+			width:7.2rem;
+			height:1.7rem;
+			line-height: 1.7rem;
+			text-align: center;
+			font-size: .7rem;
+			background-color: rgb(244,245,249);
+			color: rgb(51,51,51);
+			border: none;
+			border-radius: .2rem;
+    		cursor: pointer;
+			-moz-box-shadow: 0 0.15rem 0.05rem -0.1rem rgba(17,26,100,.065), 0 0.1rem 0.1rem 0 rgba(17,26,100,.065), 0 0.05rem 0.25rem 0.15rem rgba(17,26,100,.065);
+			-webkit-box-shadow: 0 0.15rem 0.05rem -0.1rem rgba(17,26,100,.065), 0 0.1rem 0.1rem 0 rgba(17,26,100,.065), 0 0.05rem 0.25rem 0.15rem rgba(17,26,100,.065);
+			box-shadow: 0 0.15rem 0.05rem -0.1rem rgba(17,26,100,.065), 0 0.1rem 0.1rem 0 rgba(17,26,100,.065), 0 0.05rem 0.25rem 0.15rem rgba(17,26,100,.065);
+			transition:.3s;
+			-moz-transition:.3s;
+			-webkit-transition:.3s;
+			-o-transition:.3s;
+		}
+		.pictureEditing .picEditUpload:hover{
+			background-color: rgb(93,157,240);
+			color: rgb(255,255,255);
+		}
+		.pictureOperation{
+			width:100vw;
+			height:100vh;
+			position: fixed;
+			top:0;
+			left:0;
+			background-color: rgba(30,30,30,.8);
+			display:none;
+			z-index:9;
+		}
+		.pictureOperation .operationMain{
+			width:35.5rem;
+			max-width: 100%;
+			height:24rem;
+			background-color: rgb(255,255,255);
+			position: absolute;
+			top:50%;
+			left:50%;
+            transform: translate(-50%,-50%);
+			-ms-transform:translate(-50%,-50%);
+			-moz-transform:translate(-50%,-50%);
+			-webkit-transform:translate(-50%,-50%);
+			-o-transform:translate(-50%,-50%);
+		}
+		.pictureOperation .operationMain .mainTop{
+			height:1.5rem;
+			line-height: 1.5rem;
+			padding: .5rem .4rem;
+			overflow: hidden;
+			position: relative;
+		}
+		.pictureOperation .operationMain .mainTop .topClose{
+			width:1.5rem;
+			height:1.5rem;
+			border-radius: 50%;
+			background-color: rgb(236,246,252);
+			transition:.3s;
+			-moz-transition:.3s;
+			-webkit-transition:.3s;
+			-o-transition:.3s;
+			cursor: pointer;
+			position: absolute;
+			left:.5rem;
+			top:.4rem;
+		}
+		.pictureOperation .operationMain .mainTop .topClose::after{
+			content:"";
+			width:.8rem;
+			height:.15rem;
+			background-color:rgb(51,51,51);
+			position:absolute;
+			top:50%;
+			left:50%;
+            transform: translate(-50%,-50%) rotate(45deg);
+			-ms-transform:translate(-50%,-50%) rotate(45deg);
+			-moz-transform:translate(-50%,-50%) rotate(45deg);
+			-webkit-transform:translate(-50%,-50%) rotate(45deg);
+			-o-transform:translate(-50%,-50%) rotate(45deg);
+			transition:.3s;
+			-moz-transition:.3s;
+			-webkit-transition:.3s;
+			-o-transition:.3s;
+		}
+		.pictureOperation .operationMain .mainTop .topClose:hover::after{
+            transform: translate(-50%,-50%) rotate(0deg);
+			-ms-transform:translate(-50%,-50%) rotate(0deg);
+			-moz-transform:translate(-50%,-50%) rotate(0deg);
+			-webkit-transform:translate(-50%,-50%) rotate(0deg);
+			-o-transform:translate(-50%,-50%) rotate(0deg);
+		}
+		.pictureOperation .operationMain .mainTop .topClose::before{
+			content:"";
+			width:.8rem;
+			height:.15rem;
+			background-color:rgb(51,51,51);
+			position:absolute;
+			top:50%;
+			left:50%;
+            transform: translate(-50%,-50%) rotate(-45deg);
+			-ms-transform:translate(-50%,-50%) rotate(-45deg);
+			-moz-transform:translate(-50%,-50%) rotate(-45deg);
+			-webkit-transform:translate(-50%,-50%) rotate(-45deg);
+			-o-transform:translate(-50%,-50%) rotate(-45deg);
+			transition:.3s;
+			-moz-transition:.3s;
+			-webkit-transition:.3s;
+			-o-transition:.3s;
+		}
+		.pictureOperation .operationMain .mainTop .topClose:hover::before{
+            transform: translate(-50%,-50%) rotate(0deg);
+			-ms-transform:translate(-50%,-50%) rotate(0deg);
+			-moz-transform:translate(-50%,-50%) rotate(0deg);
+			-webkit-transform:translate(-50%,-50%) rotate(0deg);
+			-o-transform:translate(-50%,-50%) rotate(0deg);
+		}
+		.pictureOperation .operationMain .mainTop .topClose:hover{
+			-webkit-box-shadow: 0 0.25rem 0.3rem 0 rgba(17,26,100, 0.13);
+  		    -moz-box-shadow: 0 .25rem .3rem 0 rgba(17,26,100, 0.13);
+    		box-shadow: 0 0.25rem 0.3rem 0 rgba(17,26,100, 0.13);
+			background-color: rgb(244,245,249);
+		}
+		.pictureOperation .operationMain .mainTop .topTit{
+			text-align: center;
+			font-size:.8rem;
+			color:rgb(30,30,30);
+			user-select:none;
+			-webkit-user-select:none;
+			-moz-user-select:none;
+			-ms-user-select:none;
+		}
+		.pictureOperation .operationMain .mainTop .screenBtn{
+			display:block;
+			width:2rem;
+			height:1.5rem;
+			line-height:1.5rem;
+			border:none;
+			background-color: rgb(236,246,252);
+			margin:0 auto;
+		}
+		.pictureOperation .operationMain .mainMid{
+			width:100%;
+			height:19rem;
+			padding: .5rem .4rem;
+			overflow: hidden;
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+		.pictureOperation .operationMain .mainMid .midBox{
+			width:100%;
+			height:100%;
+			border: .05rem solid rgb(203,208,229);
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+			overflow: hidden;
+			position: relative;
+		}
+		.pictureOperation .operationMain .mainMid .midBox canvas,.pictureOperation .operationMain .mainMid .midBox .canvas_rm{
+			position: absolute;
+			left:50%;
+			top:50%;
+            transform: translate(-50%,-50%);
+			-ms-transform:translate(-50%,-50%);
+			-moz-transform:translate(-50%,-50%);
+			-webkit-transform:translate(-50%,-50%);
+			-o-transform:translate(-50%,-50%);
+		}
+		.pictureOperation .operationMain .mainMid .midBox .canvas_rm .curtainItem{
+			position: absolute;
+			background-color:rgba(0,0,0,.3);
+		}
+		.pictureOperation .operationMain .mainMid .midBox .canvas_rm .curtainTop{
+			top:0;
+		}
+		.pictureOperation .operationMain .mainMid .midBox .canvas_rm .curtainBottom{
+			bottom:0;
+		}
+		.pictureOperation .operationMain .mainMid .midBox .canvas_rm .curtainLeft{
+			bottom:0;
+			left:0;
+			height:100%;
+		}
+		.pictureOperation .operationMain .mainMid .midBox .canvas_rm .curtainRight{
+			bottom:0;
+			right:0;
+			height:100%;
+		}
+		/* 截图框缩放8个小div */
+		.screenshotbox{
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box; 
+			box-sizing: border-box;
+			border: 3px solid #FF0000;
+			width: 0px;
+			height: 0px;
+			position: absolute;
+			opacity: 0.5;
+			cursor: move;
+			z-index: 10;
+		}
+		.screenshotbox .Divmin{
+			position: absolute;
+			width: 8px;
+			height: 8px;
+			background: #fff;
+		}
+		.screenshotbox .plugin-up-left{margin-top: -4px;margin-left: -4px;cursor: nw-resize;}
+		.screenshotbox .plugin-up{
+			left: 50%;/*父元素盒子main宽度的一半，注意要有绝对定位*/
+			margin-left:-4px;
+			top: -4px;
+			cursor: n-resize;
+		}
+		.screenshotbox .plugin-up-right{top: -4px;right: -4px;cursor: ne-resize;}
+		.screenshotbox .plugin-right{top: 50%;margin-top: -4px;right: -4px;cursor: e-resize;}
+		.screenshotbox .plugin-right-down{right: -4px;bottom: -4px;cursor: se-resize;}
+		.screenshotbox .plugin-down{bottom: -4px;left: 50%;margin-left: -4px;cursor: s-resize;}
+		.screenshotbox .plugin-left-down{left: -4px;bottom: -4px;cursor: sw-resize;}
+		.screenshotbox .plugin-left{left: -4px;top: 50%;margin-top: -4px;cursor: w-resize;}
+		.uploadedShow{
+			    border-top: .05rem dashed rgb(204,204,204);
+				border-bottom: .05rem dashed rgb(204,204,204);
+				padding:.8rem .8rem 0;
+				overflow:hidden;
+				margin-bottom:.8rem;
+		}
+		.uploadedShow .ulaesoLeft::-webkit-scrollbar{height:.1rem }
+		.uploadedShow .ulaesoLeft::-webkit-scrollbar-thumb{ background-color: rgb(141,166,199); }
+		.uploadedShow .ulaesoLeft::-webkit-scrollbar-track{ background-color: rgb(255,255,255); }
+		.uploadedShow .ulaesoLeft .uaslfMain{
+			    width:30rem;
+				overflow:hidden;
+		}
+		.uploadedShow .ulaesoLeft .uaslfMain .usfanBox{
+			    width:4rem;
+				height:4rem;
+				overflow:hidden;
+				position:relative;
+				float:left;
+				margin-right:2rem;
+		}
+		.uploadedShow .ulaesoLeft .uaslfMain .usfanBox img{
+				display:block;
+			    width:4rem;
+				height:auto;
+				position:absolute;
+				left:0;
+				top:50%;
+				transform: translate(0%,-50%);
+				-ms-transform:translate(0%,-50%);
+				-moz-transform:translate(0%,-50%);
+				-webkit-transform:translate(0%,-50%);
+				-o-transform:translate(0%,-50%);
+		}
+		.uploadedShow .ulaesoLeft .uaslfMain .usfanBox .ufnoBottom{
+				width:4rem;
+				height:1.2rem;
+				background-color:rgba(0,0,0,.7);
+				position:absolute;
+				left:0;
+				bottom:0;
+		}
+		.uploadedShow .ulaesoLeft .uaslfMain .usfanBox .ufnoBottom span{
+			display: block;
+			width:.8rem;
+			height:.8rem;
+			position: absolute;
+			top:.2rem;
+			right:.2rem;
+			cursor: pointer;
+		}
+		.uploadedShow .ulaesoLeft .uaslfMain .usfanBox .ufnoBottom span::after,.uploadedShow .ulaesoLeft .uaslfMain .usfanBox .ufnoBottom span::before{
+			content: "";
+			width:.8rem;
+			height:.1rem;
+			position: absolute;
+			top:50%;
+			right:0;
+			background-color: rgb(204,204,204);
+		}
+		.uploadedShow .ulaesoLeft .uaslfMain .usfanBox .ufnoBottom span::after{
+            transform: translate(0%,-50%) rotate(45deg);
+			-ms-transform:translate(0%,-50%) rotate(45deg);
+			-moz-transform:translate(0%,-50%) rotate(45deg);
+			-webkit-transform:translate(0%,-50%) rotate(45deg);
+			-o-transform:translate(0%,-50%) rotate(45deg);
+		}
+		.uploadedShow .ulaesoLeft .uaslfMain .usfanBox .ufnoBottom span::before{
+            transform: translate(0%,-50%) rotate(-45deg);
+			-ms-transform:translate(0%,-50%) rotate(-45deg);
+			-moz-transform:translate(0%,-50%) rotate(-45deg);
+			-webkit-transform:translate(0%,-50%) rotate(-45deg);
+			-o-transform:translate(0%,-50%) rotate(-45deg);
+		}
+		.uploadedShow .ulaesoRight p{
+				width:100%;
+				min-height:1rem;
+				font-size:.7rem;
+				color:rgb(51,51,51);
+				line-height:1rem;
+		}
+		.uploadedShow .ulaesoRight::-webkit-scrollbar{width:.1rem }
+		.uploadedShow .ulaesoRight::-webkit-scrollbar-thumb{ background-color: rgb(141,166,199); }
+		.uploadedShow .ulaesoRight::-webkit-scrollbar-track{ background-color: rgb(255,255,255); }
